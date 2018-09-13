@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "520709029575",
+    "firebase_url": "https://buylocal-d3d4b.firebaseio.com",
+    "project_id": "buylocal-d3d4b",
+    "storage_bucket": "buylocal-d3d4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520709029575:android:d1df5f3a4604148e",
+        "android_client_info": {
+          "package_name": "com.example.owner.buy_local"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520709029575-kfmkbb0ma1f4prmor497ipt08n7rvd02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrza9kL-EDAdiyOVR_zfgOJ08IbH8CGhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
